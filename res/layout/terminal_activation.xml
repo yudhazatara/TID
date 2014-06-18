@@ -74,7 +74,8 @@
                 android:background="@layout/button_green"
                 android:text="Check MID"
                 android:textColor="#FFFFFF"
-                android:textSize="28sp" />
+                android:textStyle="bold"
+                android:textSize="35sp" />
         </LinearLayout>
 
         <LinearLayout

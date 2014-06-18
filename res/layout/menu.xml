@@ -21,46 +21,51 @@
 
              <Button
                 android:id="@+id/btnSale"
-                android:layout_width="207dp"
-                android:layout_height="207dp"
+                android:layout_width="220dp"
+                android:layout_height="220dp"
                 android:layout_gravity="center"
-                android:layout_marginTop="20dp"
+                android:layout_marginTop="80dp"
                 android:layout_marginLeft="80dp"
                 android:layout_marginRight="40dp"
-                android:layout_marginBottom="20dp"               
+                android:layout_marginBottom="80dp"               
                 android:background="@layout/button_green"
                 android:text="Register Terminal"
                 android:textColor="#FFFFFF"
-                android:textSize="28sp" />
+		        android:textStyle="bold"
+		        android:textSize="35sp" />
 
             <Button
                 android:id="@+id/btnTopUp"
-                android:layout_width="207dp"
-                android:layout_height="207dp"
+                android:layout_width="220dp"
+                android:layout_height="220dp"
                 android:layout_gravity="center"
-                android:layout_marginTop="20dp"
+                android:layout_marginTop="80dp"
                 android:layout_marginLeft="40dp"
                 android:layout_marginRight="40dp"
-                android:layout_marginBottom="20dp"
+                android:layout_marginBottom="80dp"
                 android:background="@layout/button_green"
                 android:text="Un-register Terminal"
                 android:textColor="#FFFFFF"
-                android:textSize="28sp" />
+		        android:textStyle="bold"
+		        android:textSize="35sp" />
             
              <Button
                 android:id="@+id/btnCardAct"
-                android:layout_width="207dp"
-                android:layout_height="207dp"
+                android:layout_width="220dp"
+                android:layout_height="220dp"
                 android:layout_gravity="center"
-                android:layout_marginTop="20dp"
+                android:layout_marginTop="80dp"
                 android:layout_marginLeft="40dp"
                 android:layout_marginRight="80dp"
-                android:layout_marginBottom="20dp"
+                android:layout_marginBottom="80dp"
                 android:background="@layout/button_green"
                 android:text="Maintenance Visit"
                 android:textColor="#FFFFFF"
-                android:textSize="28sp" />
+		        android:textStyle="bold"
+		        android:textSize="35sp" />
+             
         </LinearLayout>
+        
     </LinearLayout>
 
 </RelativeLayout>
