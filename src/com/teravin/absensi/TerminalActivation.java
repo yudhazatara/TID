@@ -1,6 +1,4 @@
-package com.tervin.tid;
-
-import com.example.tid.R;
+package com.teravin.absensi;
 
 import android.app.Activity;
 import android.os.Bundle;
