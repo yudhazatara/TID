@@ -42,11 +42,6 @@ public class TerminalActivation extends Activity {
 		});
 	}
 	
-	@Override
-	public void onResume() {
-		
-	}
-	
 	public void changeView(int view) {
 
         name.setVisibility(view);

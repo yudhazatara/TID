@@ -43,9 +43,4 @@ public class MenuActivity extends Activity {
 			}
 		});
 	}
-
-	@Override
-	public void onResume() {
-		
-	}
 }

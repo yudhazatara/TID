@@ -25,10 +25,4 @@ private Button btnUnregister;
 			}
 		});
 	}
-	
-	@Override
-	public void onResume() {
-
-	}
-
 }

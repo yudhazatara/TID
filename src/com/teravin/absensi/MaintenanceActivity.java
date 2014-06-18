@@ -25,9 +25,4 @@ public class MaintenanceActivity extends Activity {
 			}
 		});
 	}
-	
-	@Override
-	public void onResume() {
-
-	}
 }
